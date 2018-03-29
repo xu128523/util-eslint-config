@@ -1,0 +1,22 @@
+{
+    "name": "util-eslint-config",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:xu128523/util-eslint-config.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "babel-eslint": "^7.2.3",
+      "eslint": "^3.19.0",
+      "eslint-config-airbnb-base": "^11.2.0",
+      "eslint-plugin-html": "^2.0.3",
+      "eslint-plugin-import": "^2.3.0"
+    }
+  }
